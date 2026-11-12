@@ -1,0 +1,1 @@
+"""VOCALSPROUT desktop application package."""
