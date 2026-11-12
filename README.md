@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VOCALSPROUT
 
 VOCALSPROUT (version 3.1.1, formerly AYLO) is a Windows-first, local voice productivity assistant. It provides offline speech-to-text, global dictation hotkeys, optional AI rewriting and commands, realtime OpenAI voice conversations, add direct screenshots, and an optional Gmail assistant.
@@ -98,3 +99,6 @@ Contributions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md), [SECURITY.md
 ## License
 
 The project source is licensed under the [Apache License 2.0](LICENSE). Third-party packages and downloaded model files remain under their respective licenses; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+=======
+# VOCALSPROUT
+>>>>>>> c852d92276274b4883be5865b8e0c64f8650c254
